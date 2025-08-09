@@ -1,0 +1,180 @@
+[
+  {
+    "name": "paraben",
+    "aliases": [
+      "methylparaben",
+      "butylparaben",
+      "ethylparaben",
+      "propylparaben"
+    ],
+    "category": "Endocrine Disruptor",
+    "penalty": 15
+  },
+  {
+    "name": "bpa",
+    "aliases": [
+      "bisphenol a"
+    ],
+    "category": "Endocrine Disruptor",
+    "penalty": 15
+  },
+  {
+    "name": "triclosan",
+    "aliases": [],
+    "category": "Endocrine Disruptor",
+    "penalty": 15
+  },
+  {
+    "name": "soy lecithin",
+    "aliases": [],
+    "category": "Estrogenic",
+    "penalty": 7
+  },
+  {
+    "name": "lavender oil",
+    "aliases": [
+      "lavandula angustifolia oil"
+    ],
+    "category": "Estrogenic",
+    "penalty": 7
+  },
+  {
+    "name": "tea tree oil",
+    "aliases": [
+      "melaleuca alternifolia oil"
+    ],
+    "category": "Estrogenic",
+    "penalty": 7
+  },
+  {
+    "name": "lead",
+    "aliases": [],
+    "category": "Spermatotoxic Agent",
+    "penalty": 7
+  },
+  {
+    "name": "cadmium",
+    "aliases": [],
+    "category": "Spermatotoxic Agent",
+    "penalty": 7
+  },
+  {
+    "name": "toluene",
+    "aliases": [],
+    "category": "Spermatotoxic Agent",
+    "penalty": 7
+  },
+  {
+    "name": "uv filter",
+    "aliases": [
+      "oxybenzone",
+      "benzophenone-3"
+    ],
+    "category": "Anti-Androgen",
+    "penalty": 15
+  },
+  {
+    "name": "pesticide",
+    "aliases": [
+      "atrazine",
+      "chlorpyrifos"
+    ],
+    "category": "Anti-Androgen",
+    "penalty": 15
+  },
+  {
+    "name": "refined sugar",
+    "aliases": [
+      "sugar",
+      "sucrose",
+      "glucose",
+      "fructose",
+      "high fructose corn syrup"
+    ],
+    "category": "Lifestyle Risk",
+    "penalty": 3
+  },
+  {
+    "name": "vegetable oil",
+    "aliases": [
+      "canola oil",
+      "soybean oil",
+      "sunflower oil"
+    ],
+    "category": "Lifestyle Risk",
+    "penalty": 3
+  },
+  {
+    "name": "artificial sweetener",
+    "aliases": [
+      "aspartame",
+      "sucralose",
+      "saccharin"
+    ],
+    "category": "Lifestyle Risk",
+    "penalty": 3
+  },
+  {
+    "name": "red 40",
+    "aliases": [
+      "allura red"
+    ],
+    "category": "Lifestyle Risk",
+    "penalty": 3
+  },
+  {
+    "name": "yellow 5",
+    "aliases": [
+      "tartrazine"
+    ],
+    "category": "Lifestyle Risk",
+    "penalty": 3
+  },
+  {
+    "name": "caramel color",
+    "aliases": [
+      "e150d",
+      "caramel e150d"
+    ],
+    "category": "Lifestyle Risk",
+    "penalty": 3
+  },
+  {
+    "name": "phosphoric acid",
+    "aliases": [],
+    "category": "Acidic Compound",
+    "penalty": 3
+  },
+  {
+    "name": "caffeine",
+    "aliases": [],
+    "category": "Stimulant",
+    "penalty": 3
+  },
+  {
+    "name": "monosodium glutamate",
+    "aliases": [
+      "msg"
+    ],
+    "category": "Lifestyle Risk",
+    "penalty": 3
+  },
+  {
+    "name": "phthalates",
+    "aliases": [],
+    "category": "Endocrine Disruptor",
+    "penalty": 15
+  },
+  {
+    "name": "talc",
+    "aliases": [],
+    "category": "Endocrine Disruptor",
+    "penalty": 15
+  },
+  {
+    "name": "apple puree",
+    "aliases": [],
+    "category": "Lifestyle Risk",
+    "penalty": 0
+  }
+]

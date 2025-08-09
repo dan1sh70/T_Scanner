@@ -1,0 +1,8 @@
+# Requirements for the FastAPI application with OCR capabilities
+fastapi
+streamlit
+uvicorn
+pillow
+easyocr
+requests
+python-multipart

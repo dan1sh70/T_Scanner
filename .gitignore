@@ -1,0 +1,46 @@
+# === Python cache & build ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.sqlite3
+db.sqlite3
+
+# === Virtual Environment ===
+venv/
+.env
+.envrc
+.venv/
+ENV/
+env.bak/
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === IDE-specific ===
+.vscode/
+.idea/
+
+# === Streamlit Cache ===
+.streamlit/
+.streamlit/secrets.toml
+
+# === Large files & binaries ===
+*.so
+*.dll
+*.lib
+*.dylib
+*.bin
+*.ckpt
+*.h5
+
+# === Jupyter Notebook Checkpoints ===
+.ipynb_checkpoints/
+
+# === Render-specific temp files ===
+*.tar
+*.gz
+*.zip
